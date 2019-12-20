@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+}
+
+.galaxyObject {
+    /* position: absolute; */
+    border-radius: 50%;
+    text-align: center;
+}
+
+#pillz{
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    position: absolute;
+    left: 320px;
+}
