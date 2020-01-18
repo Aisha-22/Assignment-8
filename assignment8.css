@@ -1,17 +1,28 @@
-body {
-    background-color: bisque;
-}
-
-.galaxyObject {
-    /* position: absolute; */
-    border-radius: 50%;
-    text-align: center;
-}
-
-#pillz{
-    width: 200px;
-    height: 200px;
-    background-color: brown;
-    position: absolute;
-    left: 320px;
-}
+*{
+    margin:0;
+    padding:0p;
+    font-family:"Helvetica";
+  }
+  
+  body{
+    background: bisque;   
+      user-select: none;
+   
+  }
+  
+  ul{
+    list-style:none;
+  }
+  
+  li{
+    display:inline-block;
+  }
+  
+  .body{
+    margin:0 auto;
+    width:1000px;
+    padding-top:40px;     
+  }
+  
+  #canvas{
+  }
